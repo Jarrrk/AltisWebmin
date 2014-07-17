@@ -3,6 +3,8 @@ AltisWebmin
 
 Web admin panel for the mission 'Altis Life' on ArmA 3. View the official AltisLife website here!
 
+Like this project? [Feel free to buy me a drink! :beer:]()
+
 Requirements
 ------------
 * [PHP 5.4+](http://php.net/downloads.php)
