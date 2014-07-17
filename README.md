@@ -1,19 +1,19 @@
 AltisWebmin
 ===========
 
-Admin web panel for Altis Life on ArmA 3
+Web admin panel for the mission 'Altis Life' on ArmA 3. View the official AltisLife website here!
 
 Requirements
 ------------
 * [PHP 5.4+](http://php.net/downloads.php)
 * MySQL server, preferably [MariaDB](https://downloads.mariadb.org)
-* Webserver. (obviously)
+* A webserver (obviously)
 
 Installation
 ------------
 1. Unzip the contents from the [latest release](https://github.com/Jarrrk/AltisWebmin/releases) and upload them to your site. 
 2. Navigate your browser to the domain of where you uploaded the files.
-3. Follow the install steps by adding your SQL details.
+3. Follow the install steps by adding your SQL details. (Same as server database details)
 4. Profit? ;)
 
 Issues
