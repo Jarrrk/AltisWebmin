@@ -25,7 +25,7 @@ Installation
 2. Update `assets/php/config.php` with your SQL server credentials. (Same as game server)
 3. Upload or run `assets/extra/altisWebmin.sql` on your respective SQL database. (arma3life)
 4. Navigate your browser to the domain of where you uploaded the files.
-5. Default username and password is: admin & adminpassword
+5. Default username and password is: admin & adminPassword
 6. Profit ;)
 
 Issues
