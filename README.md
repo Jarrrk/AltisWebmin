@@ -3,9 +3,13 @@ AltisWebmin
 
 Live updating web admin panel for the 'Altis Life' servers on ArmA 3. View the official AltisLife website [here](http://altisliferpg.com)!
 
+---
+
 **Please note:** 
 
 This project is still in development and will continue to be updated with core features and user suggestions.
+
+---
 
 Like this project? [Feel free to buy me a drink! :beer:](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KBU8BMB5235DC)
 
