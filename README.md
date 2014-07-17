@@ -24,7 +24,7 @@ If you're experiencing weird issues this might be caused by downloading the repo
 
 Todo
 ----
-- [ ] Wait for users to submit suggestions.
+- [x] Waiting for users to submit suggestions.
 
 License Info
 ------------
