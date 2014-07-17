@@ -44,6 +44,6 @@ GNU General Public License for more details.
 
 ---
 
-`Why don't you make like a tree and fuck off`
+*Why don't you make like a tree and fuck off*
 
 ---
