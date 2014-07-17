@@ -22,3 +22,5 @@ CREATE TABLE `web_data` (
   `last_action` varchar(255) NOT NULL,
   PRIMARY KEY (`last_action`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+INSERT INTO `web_admins` (`username`, `password`, `rank`) values ("admin", "33d87fd364516f6604124fcc76fdd279", 1);
