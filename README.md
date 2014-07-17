@@ -3,7 +3,7 @@ AltisWebmin
 
 Web admin panel for the mission 'Altis Life' on ArmA 3. View the official AltisLife website here!
 
-Like this project? [Feel free to buy me a drink! :beer:](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=70aMrJoDULTQCBvy0-vR9K23RLpfQyAdQAQSrvlE9bSXFpOZEApvQqkiUJi&dispatch=5885d80a13c0db1f8e263663d3faee8d5402c249c5a2cfd4a145d37ec05e9a5e)
+Like this project? [Feel free to buy me a drink! :beer:](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KBU8BMB5235DC)
 
 Requirements
 ------------
