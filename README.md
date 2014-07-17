@@ -22,8 +22,8 @@ Requirements
 Installation
 ------------
 1. Unzip the contents from the [latest release](https://github.com/Jarrrk/AltisWebmin/releases) and upload them to your site. 
-2. Update `assets/php/config.php` with your SQL server credentials. (Same as game server details)
-3. Upload or run `assets/extra/altisWebmin.sql` on your respective SQL database. (Typically arma3life)
+2. Update `assets/php/config.php` with your SQL server credentials. (Same as game server)
+3. Upload or run `assets/extra/altisWebmin.sql` on your respective SQL database. (arma3life)
 4. Navigate your browser to the domain of where you uploaded the files.
 5. Default username and password is: admin & adminpassword
 6. Profit ;)
@@ -32,12 +32,14 @@ Issues
 ------
 None so far! If you find any feel free to submit a report [here](https://github.com/Jarrrk/AltisWebmin/issues) and I'll get to work *smashing* it.
 
-If you're experiencing weird issues this might be caused by downloading the repo from the main project page. Please use the latest release from the [release section](https://github.com/Jarrrk/AltisWebmin/releases).
+If you're experiencing undocumented issues this will probably be caused by downloading the repo from the main project page. Please use the latest release from the [release section](https://github.com/Jarrrk/AltisWebmin/releases).
 
 Todo
 ----
 - [ ] Allow for statistic editing (Player bank, rank, vehicles)
 - [ ] Allow for easy adding of administrators and moderators
+
+*If you have any suggestions feel free to submit them [here](https://github.com/Jarrrk/AltisWebmin/issues/new), or [submit a pull request](https://github.com/Jarrrk/AltisWebmin/pulls).*
 
 License Info
 ------------
