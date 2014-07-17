@@ -22,8 +22,8 @@ Requirements
 Installation
 ------------
 1. Unzip the contents from the [latest release](https://github.com/Jarrrk/AltisWebmin/releases) and upload them to your site. 
-2. Update `assets/php/config.php` with your SQL server credentials. (Same as server details)
-3. Upload or run `assets/extra/altisWebmin.sql` on your respective SQL database.
+2. Update `assets/php/config.php` with your SQL server credentials. (Same as game server details)
+3. Upload or run `assets/extra/altisWebmin.sql` on your respective SQL database. (Typically arma3life)
 4. Navigate your browser to the domain of where you uploaded the files.
 5. Default username and password is: admin & adminpassword
 6. Profit ;)
