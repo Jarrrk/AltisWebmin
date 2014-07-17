@@ -16,7 +16,7 @@ Installation
 1. Unzip the contents from the [latest release](https://github.com/Jarrrk/AltisWebmin/releases) and upload them to your site. 
 2. Navigate your browser to the domain of where you uploaded the files.
 3. Follow the install steps by adding your SQL details. (Same as server database details)
-4. Profit? ;)
+4. Profit ;)
 
 Issues
 ------
