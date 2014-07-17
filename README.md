@@ -3,6 +3,8 @@ AltisWebmin
 
 Live updating web admin panel for the 'Altis Life' servers on ArmA 3. View the official AltisLife website [here](http://altisliferpg.com)!
 
+**Note:** This project is still in development and will continue to be updated with core features and user suggestions.
+
 Like this project? [Feel free to buy me a drink! :beer:](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KBU8BMB5235DC)
 
 Requirements
@@ -26,7 +28,8 @@ If you're experiencing weird issues this might be caused by downloading the repo
 
 Todo
 ----
-- [x] Waiting for users to submit suggestions.
+- [ ] Allow for statistic editing (Player bank, rank, vehicles)
+- [ ] Allow for easy adding of administrators and moderators
 
 License Info
 ------------
